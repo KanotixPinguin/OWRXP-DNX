@@ -1,4 +1,6 @@
-# OWRXP-DNX
+![DNX Waterfall](https://img.shields.io/badge/Waterfall-DNX-blue)
+![OpenWebRX+](https://img.shields.io/badge/OpenWebRX+-Enhanced-green)
+![SDR](https://img.shields.io/badge/SDR-Optimized-orange)# OWRXP-DNX
 
 Public OpenWebRX+ customization project based on the standard OWRX+ package flow, with DNX UI work, modern/old 3D waterfall variants, noVNC helpers, and reproducible patching.
 
