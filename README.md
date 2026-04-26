@@ -1,4 +1,35 @@
-![DNX Waterfall](https://img.shields.io/badge/Waterfall-DNX-blue)
+# 🌊 OWRXP-DNX
+
+### Advanced OpenWebRX+ enhancement with DNX Waterfall and real-time SDR visualization
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-3d-modern.png" width="700">
+</p>
+
+<p align="center">
+  <b>3D Waterfall • Split Mode • Signal Comparison • UI Enhancements</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KanotixPinguin/OWRXP-DNX-Waterfall">
+    <img src="https://img.shields.io/badge/Waterfall-DNX-blue">
+  </a>
+  <img src="https://img.shields.io/badge/OpenWebRX+-Enhanced-green">
+  <img src="https://img.shields.io/badge/SDR-Optimized-orange">
+</p>
+
+---
+
+## 🔍 Visual Comparison
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-standard.png" width="45%">
+  <img src="https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-3d-modern.png" width="45%">
+</p>
+
+<p align="center">
+  <b>Standard vs DNX 3D Modern</b>
+</p>![DNX Waterfall](https://img.shields.io/badge/Waterfall-DNX-blue)
 ![OpenWebRX+](https://img.shields.io/badge/OpenWebRX+-Enhanced-green)
 ![SDR](https://img.shields.io/badge/SDR-Optimized-orange)# OWRXP-DNX
 
