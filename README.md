@@ -27,7 +27,25 @@ This project does not only restyle OpenWebRX+. It adds a more expressive waterfa
 - `Std/3DM` blends the normal view with the modern 3D presentation
 - `3D-Old` restores the stronger legacy 3D character for users who prefer the older dramatic depth effect
 - `Flip/Flop` helps switch the visual split behavior quickly while comparing views
+---
 
+## 🌊 DNX Waterfall (Included)
+
+This project includes the DNX Waterfall system.
+
+For full details and standalone version:
+👉 https://github.com/KanotixPinguin/OWRXP-DNX-Waterfall
+
+### 📸 Preview
+
+#### 🎨 3D Modern
+![3D Modern](https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-3d-modern.png)
+
+#### 🧩 Split Mode (Standard + 3D)
+![Split](https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-split.png)
+
+#### 🧊 3D Old
+![3D Old](https://raw.githubusercontent.com/KanotixPinguin/OWRXP-DNX-Waterfall/main/docs/images/waterfall-3d-old.png)
 Together with the DNX receiver panel changes, this gives the project its own recognizable look without requiring private station assets.
 
 ## Not Included
